@@ -1,5 +1,9 @@
 # Estete
 
+A Wordpress theme for a blog I created and curated in 2011-2012.
+
+![Preview](https://raw.githubusercontent.com/yenbekbay/estete/master/preview.png)
+
 GNU GENERAL PUBLIC LICENSE
 Copyright (C) 2015 Ayan Yenbekbay
 
