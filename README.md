@@ -1,4 +1,4 @@
-# Estete
+# Estete [![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/yenbekbay/estete/master/LICENSE)
 
 A Wordpress theme for a blog I created and curated in 2011-2012.
 
