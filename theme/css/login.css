@@ -1,0 +1,59 @@
+p#nav {
+  color: #888!important;
+}
+.login h1 a:hover {
+  opacity: 0.95;
+  filter: alpha(opacity=95);
+  -webkit-transition: all .4s;
+  -moz-transition: all .4s;
+  -o-transition: all .4s;
+  -ms-transition: all .4s;
+  transition: all .4s;     
+}
+.login #nav a, .login #backtoblog a {
+  color: #888!important;
+  text-decoration: none;
+}
+.login #backtoblog a {
+  background: rgba(255,238,0,0.1);
+  padding: 3px;
+}
+.login #nav a:hover, .login #backtoblog a:hover {
+  color: #555!important;
+}  
+.submit input#wp-submit {
+  margin-top: -3px;
+  display: inline-block;
+  padding: 4px 7px;
+  font-weight: 700;
+  line-height: 1.4;
+  background: linear-gradient(bottom,  #F7F7F7 4%,  #FFFFFF 52%);   
+  background: -o-linear-gradient(bottom,  #F7F7F7 4%,  #FFFFFF 52%);
+  background:  -moz-linear-gradient(bottom,  #F7F7F7 4%,  #FFFFFF 52%);
+  background: -webkit-linear-gradient(bottom,  #F7F7F7 4%,  #FFFFFF 52%);
+  background: -ms-linear-gradient(bottom,  #F7F7F7 4%,  #FFFFFF 52%);
+  border: 1px solid #ccc;
+  color: #555;
+  cursor: pointer;
+  text-shadow: 1px 1px #fff;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0 1px 2px 0 #eee;
+  -webkit-box-shadow: 0 1px 2px 0 #eee;
+  box-shadow: 0 1px 2px 0 #eee;
+}
+.submit input#wp-submit:hover {
+  background: linear-gradient(bottom,  #EBEBEB 4%,  #FAFAFA 52%);
+  background: -o-linear-gradient(bottom,  #EBEBEB 4%,  #FAFAFA 52%);
+  background: -moz-linear-gradient(bottom,  #EBEBEB 4%,  #FAFAFA 52%);
+  background: -webkit-linear-gradient(bottom,  #EBEBEB 4%,  #FAFAFA 52%);
+  background: -ms-linear-gradient(bottom,  #EBEBEB 4%,  #FAFAFA 52%);
+}
+.submit input#wp-submit:active {
+  background: #e6e6e6;
+}
+* html .submit input#wp-submit {
+  background: #f7f7f7;
+  margin-right: -7px;
+}  

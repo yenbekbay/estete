@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-23 10:33+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ayan <ayan.yenb@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23
+#: index.php:57
+#: single.php:133
+#: template-archives.php:65
+msgid "Error 404 - Not Found"
+msgstr "404 - Страница не найдена"
+
+#: index.php:61
+#: single.php:137
+#: template-archives.php:69
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Извините, но запрошенную вами страницу найти не удалось. Попробуйте найти её с помощью поиска."
+
+#: archive.php:16
+#, php-format
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: archive.php:18
+#, php-format
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: archive.php:22
+#: archive.php:24
+msgid "Archive for %s"
+msgstr "Архив за %s"
+
+#: archive.php:26
+msgid "Archive for %s year"
+msgstr "Архив за %s год"
+
+#: archive.php:28
+msgid "All posts by "
+msgstr "Все посты от "
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr "Архив сайта"
+
+#: archive.php:47
+#: index.php:21
+#: page.php:17
+#: search.php:24
+#: single.php:24
+#: template-contact.php:68
+msgid "edit"
+msgstr "изменить"
+
+#: archive.php:41
+#: index.php:32
+#: single.php:61
+msgid "Read more"
+msgstr "Читать далее"
+
+#: archive.php:71
+#: index.php:46
+#: search.php:49
+msgid "&larr; Older Entries"
+msgstr "← Предыдущие"
+
+#: archive.php:72
+#: index.php:47
+#: search.php:50
+msgid "Newer Entries &rarr;"
+msgstr "Следующие → "
+
+#: archive.php:80
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2Извините, но записей в этой рубрике пока нет.</h2>"
+
+#: archive.php:82
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2Извините, но записей на эту дату нет.</h2>"
+
+#: archive.php:85
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2Извините, но  у %s пока нет публикаций.</h2>"
+
+#: archive.php:87
+msgid "<h2>No posts found.</h2>"
+msgstr "<h2>Записей не найдено.</h2>"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:24
+msgid "No Replies"
+msgstr "Нет комментариев"
+
+#: comments.php:24
+msgid "One Reply"
+msgstr "1 комментарий"
+
+#: comments.php:24
+msgid "% Replies"
+msgstr "% комментариев"
+
+#: comments.php:24
+msgid "to"
+msgstr "на"
+
+#: comments.php:34
+msgid "Trackbacks for this post"
+msgstr "Трэкбэки"
+
+#: comments.php:48
+msgid "Comments are now closed for this article."
+msgstr "В данный момент комментарии закрыты."
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr " "
+
+#: comments.php:70
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий на %s"
+
+#: comments.php:77
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Вы должны %1$sвойти%2$s  чтобы оставить комментарий."
+
+#: comments.php:84
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Вы вошли как %1$s. %2$sВыйти &raquo;%3$s"
+
+#: comments.php:84
+msgid "Log out of this account"
+msgstr "Выйти из данной учетной записи"
+
+#: comments.php:89
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:89
+#: comments.php:92
+msgid "(required)"
+msgstr "(обязательно)"
+
+#: comments.php:92
+msgid "Mail (will not be published)"
+msgstr "E-mail (не будет виден)"
+
+#: comments.php:95
+msgid "Website"
+msgstr "Сайт"
+
+#: functions.php:16
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:17
+msgid "Secondary Menu"
+msgstr "Второстепенное меню"
+
+#: header.php:99
+msgid "Home"
+msgstr "Главная"
+
+#: header.php:111
+msgid "Email"
+msgstr "E-mail"
+
+#: header.php:113
+msgid "Comments"
+msgstr "Комментарии"
+
+#: header.php:114
+msgid "Posts"
+msgstr "Посты"
+
+#: page.php:25
+#: single.php:39
+#: template-archives.php:23
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: search.php:6
+msgid "Search Results for"
+msgstr "Результаты поиска для"
+
+#: search.php:51
+msgid "Your search did not match any entries"
+msgstr "По вашему запросу ничего не найдено"
+
+#: search.php:56
+msgid "Try more general keywords"
+msgstr "Попробуйте повторить поиск с другими ключевыми словами"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Поиск по сайту:"
+
+#: functions/widget-tabbed.php:222
+msgid "Title:"
+msgstr "Название:"
+
+#: functions/widget-tabbed.php:46
+msgid "A tabbed widget that display popular posts, recent posts, comments and tags."
+msgstr "Виджет со вкладками, который показывает популярные посты, недавние посты, комментарии и теги."
+
+#: functions/widget-tabbed.php:52
+msgid "Custom Tabbed Widget"
+msgstr "Виджет со вкладками"
+
+#: functions/widget-tabbed.php:156
+#: functions/widget-tabbed.php:158
+msgid "on "
+msgstr "в "
+
+#: functions/widget-tabbed.php:228
+msgid "Tab 1 Title:"
+msgstr "Название 1 вкладки:"
+
+#: functions/widget-tabbed.php:234
+msgid "Tab 2 Title:"
+msgstr "Название 2 вкладки:"
+
+#: functions/widget-tabbed.php:240
+msgid "Tab 3 Title:"
+msgstr "Название 3 вкладки:"
+
+#: functions/widget-tabbed.php:246
+msgid "Tab 4 Title:"
+msgstr "Название 4 вкладки:"
+

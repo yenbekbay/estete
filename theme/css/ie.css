@@ -1,0 +1,47 @@
+#primary-nav ul a {
+  padding-top: 2px;
+}
+#header-login {
+  position: relative;
+  top: -40px;
+}
+#search-header {
+  margin-top: -25px;
+}
+#popular-posts .thumb img {
+  position: relative;
+  top: -7px;
+}
+.widget-title, .entry-meta1{
+  border-bottom: 3px solid #eee;
+  background: none;
+}
+#like-buttons {
+  bottom: 35px;
+}
+#wp_footer {
+  width: 0px;
+}
+#twitter-rss .rss-image {
+  left: -25px;
+}
+#twitter-rss .rss-link {
+  position: relative;
+  top: -15px;
+}
+#social_button-top {
+  margin-top: -35px;
+}
+#social_button-bottom {
+  margin-top: -28px;
+}
+* html #social_button-bottom {
+  margin-top: -68px;
+}
+* html #related-posts {
+  margin-top: -20px;
+}  
+#commentform .inputs input {
+  padding-bottom: 8px;
+  padding-top: 2px;
+}
